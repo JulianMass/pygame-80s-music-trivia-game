@@ -1,3 +1,3 @@
-# Segundo_Parcial_Julian_Mas_314
-Repositorio donde dejo guardado el código de un segundo parcial.
-Es un programa tipo "Preguntados", con temática de canciones de los 80's, donde usando la herramienta "Pygame" armé diferentes menúes funcionales (Jugar, Ajustes, Rankings, Salir) y funciona como el juego antes mencionado: son preguntas con 3 opciones de respuestas, si acertás ganás puntos y pasás a la siguiente pregunta y si no acertás se te resta 1 vida y puntos, también hay comodines para ayudar a la partida, así como sonidos para cada botón y música de fondo; al final te pide un nombre para que la puntuación y el nombre queden guardados para luego poder visualizarlos.
+Interactive trivia game inspired by quiz-style applications, developed using Pygame.
+The game features multiple menus (Play, Settings, Rankings, Exit), a scoring and lives system, and power-ups to assist gameplay. Players answer multiple-choice questions about 80s music, earning points for correct answers and losing lives for incorrect ones.
+The application also includes sound effects, background music, and a persistent leaderboard where player scores are stored and displayed.
